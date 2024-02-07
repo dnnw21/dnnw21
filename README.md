@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hello everyone.<img src="https://github.com/FujiwaraChoki/FujiwaraChoki/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        My name is Danny and I am currently studying Python.<br>
+        I will post every project I do here. Good vibes!<br>
+    </i><br>
 
 <!--
 **dnnw21/dnnw21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
