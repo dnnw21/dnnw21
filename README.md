@@ -1,12 +1,14 @@
-<h1 align="center">Hello everyone.<img src="https://github.com/dnnw21/dnnw21/blob/main/hi-emoji.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hello everyone<img src="https://github.com/dnnw21/dnnw21/blob/main/hi-emoji.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
         My name is Danny and I am currently studying Python.<br>
-        I will post every project I do here. Good vibes!<br>
+        I will post every project I do here. <br>
+        <br>
+        ✨ G o o d  v i b e s ! ✨<br>
     </i><br>
-
+<p> 🌱 I’m currently learning Python</p>
 <!--
 **dnnw21/dnnw21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
